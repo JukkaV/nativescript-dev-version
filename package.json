@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "androidmanifest": "^2.0.0",
+    "nativescript-dev-multiple-env": "2.0.0-beta5",
     "nativescript-hook": "^0.2.5",
     "plist": "^3.0.1"
   }
