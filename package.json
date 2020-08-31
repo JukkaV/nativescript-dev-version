@@ -16,6 +16,11 @@
         "type": "after-prepare",
         "script": "lib/after-prepare.js",
         "inject": true
+      },
+      {
+        "type": "before-prepare",
+        "script": "lib/before-prepare.js",
+        "inject": true
       }
     ]
   },
